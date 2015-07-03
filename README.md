@@ -1,1 +1,1 @@
-deeper introduction of mongodb index using reveal.js
+tips for linux performance using reveal.js
